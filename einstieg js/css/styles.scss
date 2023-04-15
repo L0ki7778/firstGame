@@ -1,0 +1,68 @@
+*{
+    font-size: 10px;
+}
+
+/* 
+
+Lektion 1: 
+Elemente in HTML erstellen und in css formatieren: 
+width, height, background-color, border, shadow
+
+Lektion 2: 
+Positionierung -> relative, absolute, sticky, (default: static)
+
+Lektion 3: 
+Text-Formatierung (siehe w3schools.com)
+
+Lektion 4a: 
+Padding und Margin
+
+Lektion 4b: 
+Flexbox / Flex (siehe w3schools.com)
+
+Lektion 5: 
+Grid (siehe w3schools.com)
++
+grid_aufgabe.jpg aus dem img-Ordner nachbauen
+
+Lektion 6: 
+Tabellen
+
+Lektion 7: 
+Listen
+
+Lektion 8: 
+Navigation / Menu (s.o.)
+
+Lektion 9: 
+Pseudo-Klassen und Pseudo-Elemente (s.o.)
+
+
+Lektion 10:
+Nico fragen, wann er Zeit hat, um mir Animationen und Co. zu zeigen
+
+
+Lektion 11: 
+Tailwind / Bootstrap
+
+
+Lektion 12: Javascript
+
+Lektion 13: SQL / NoSQL
+*/
+
+
+
+#container{
+width:200px;
+height:200px;
+background-color:green;
+position: relative;
+}
+
+#box{
+    width:50px;
+    height:50px;
+    background-color:red;
+    position: absolute;
+}
